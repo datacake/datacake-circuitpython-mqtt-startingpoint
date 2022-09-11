@@ -13,7 +13,7 @@ import supervisor
 # MQTT Settings
 MQTT_BROKER = "mqtt.datacake.co"
 MQTT_PORT = 8883
-MQTT_DTCK_PRODUCT_SLUG = "circuit-python-demo"
+MQTT_DTCK_PRODUCT_SLUG = "yourdatacakeproductslug"
 MQTT_DTCK_ID = "yourdatacakedeviceid"
 MQTT_DTCK_TOKEN = "yourdatacaketoken"
 MQTT_SENDING_INTERVAL = 60 # Seconds
